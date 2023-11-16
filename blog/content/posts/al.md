@@ -23,7 +23,7 @@ Hungry Al slinks around a leafy field. Says, "Something's got to be here, someth
 
 Somewhere near La Gama, Al lights a torch. 
 
- ![Alt text](</static/images/Al'Shrief Capture.JPG>)
+ ![Alt text](</images/Al'Shrief Capture.JPG>)
 
 [Wandering Monster roll, 2-in-6, rolls a 2] [Wilderness wandering monster in desert, d8, rolls an 8, "human"] [Wilderness encounters for human, d12, rolls a 6, "High-Level Magic User]. Further: [Surprise roll for wilderness encounters: Al, d6, rolls a 2, Magic User, d6 rolls a 4; Distance between parties, 4d6 x 10, 100 yards.] Thus:
 
@@ -35,7 +35,7 @@ Al accepted the dagger's offer for a night walk with the magic user. They climbe
 
 "One more thing," the magic user stated. He cast "charm person" [Al's saving throw, d20, needed a 15 and rolled a 1].
 
-![Alt text](</static/images/New c Capture.JPG>)
+![Alt text](</images/New c Capture.JPG>)
 
 
 Al agreed, in the morning he'd head down to La Gama. "Sure, no problem, I'll drop-in Vuida's Inn, see what's new, and meet you here tomorrow." 

@@ -1,0 +1,11 @@
+title = 'OSR October'
+#baseURL = 'https://darvas.roscigno.com/'
+baseURL = 'https://main--lovely-pixie-41a403.netlify.app/'
+languageCode = 'en-us'
+theme = "ananke"
+
+[params]
+  body_classes = "baskervvile bg-near-white"
+  post_content_classes = "baskervvile bg-near-white"
+  # I don't use commento, but I use the commento partial
+  commentoEnable = true
